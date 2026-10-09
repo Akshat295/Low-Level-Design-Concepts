@@ -412,6 +412,7 @@ The abstraction + polymorphism + delegation together create the Strategy Pattern
 
 ---
 
+
 # 14. Class Diagram
 
 ```text
